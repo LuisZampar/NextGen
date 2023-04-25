@@ -132,7 +132,7 @@ a{
     align-items: flex-start;
     margin: 20px 0;
     border-radius: 30px;
-    box-shadow: 21px 15px 61px -37px rgba(31,21,31,1);
+    box-shadow: 21px 15px 61px -37px rgb(95, 95, 95);
     padding: 30px 15px; 
     transition: .5s;
 
